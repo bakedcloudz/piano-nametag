@@ -6,3 +6,6 @@
 //Slack username
 
 bakedcloudz
+//description
+
+It represents piano, which is a hobby of mine. Mz favorite chopin piece is on the back of the piano.
